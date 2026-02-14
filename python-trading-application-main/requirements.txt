@@ -1,0 +1,8 @@
+yfinance
+mysql-connector-python
+pandas
+requests
+ta
+matplotlib
+SQLAlchemy
+numpy
